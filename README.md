@@ -5,7 +5,7 @@ Le catalogue des plugins [Claude Code](https://claude.com/claude-code) de [Katir
 ## Ajouter le catalogue
 Une seule fois :
 ```bash
-claude plugin marketplace add KatiroDesignStudio/katiro-plugins
+claude plugin marketplace add KatiroDesignStudio/katiro-claude-code-plugins
 ```
 
 ## Les plugins
