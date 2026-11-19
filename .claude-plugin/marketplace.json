@@ -9,10 +9,10 @@
       "name": "katiro-ui-kit",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/KatiroDesignStudio/katiro-uikit-agent.git",
+        "url": "https://github.com/KatiroDesignStudio/katiro-ui-kit-figma.git",
         "path": "plugins/katiro-ui-kit"
       },
-      "description": "Remet au propre le UI Kit d'un fichier Figma en logique atomique, puis branche les écrans dessus. Commandes /katiro-ui-kit-diagnostic, /katiro-ui-kit-build et /katiro-ui-kit-templates."
+      "description": "Remet au propre le UI Kit d'un fichier Figma en logique atomique : diagnostic, construction validée étape par étape, application du kit à des copies d'écrans et recommandations d'accessibilité. Commandes /katiro-ui-kit-diagnostic, /katiro-ui-kit-build, /katiro-ui-kit-templates et /katiro-ui-kit-accessibilite."
     }
   ]
 }

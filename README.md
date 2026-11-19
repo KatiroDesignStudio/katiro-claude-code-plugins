@@ -11,7 +11,7 @@ claude plugin marketplace add KatiroDesignStudio/katiro-plugins
 ## Les plugins
 | Plugin | Ce qu'il fait | Installer |
 |---|---|---|
-| [Katiro UI Kit](https://github.com/KatiroDesignStudio/katiro-uikit-agent) | Range le UI Kit d'un fichier Figma, puis branche tes écrans dessus | `claude plugin install katiro-ui-kit@katiro-studio` |
+| [Katiro UI Kit](https://github.com/KatiroDesignStudio/katiro-ui-kit-figma) | Remet au propre le UI Kit d'un fichier Figma, directement dans Figma | `claude plugin install katiro-ui-kit@katiro-studio` |
 
 Puis ouvre une nouvelle session Claude Code.
 
