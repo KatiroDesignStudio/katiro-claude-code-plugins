@@ -11,7 +11,7 @@ claude plugin marketplace add KatiroDesignStudio/katiro-claude-code-plugins
 ## Les plugins
 | Plugin | Ce qu'il fait | Installer |
 |---|---|---|
-| [Katiro UI Kit](https://github.com/KatiroDesignStudio/katiro-ui-kit-figma) | Remet au propre le UI Kit d'un fichier Figma, directement dans Figma | `claude plugin install katiro-ui-kit@katiro-studio` |
+| [Figma UI Kit](https://github.com/KatiroDesignStudio/figma-ui-kit) | Remet au propre le UI Kit d'un fichier Figma, directement dans Figma | `claude plugin install figma-ui-kit@katiro-studio` |
 
 Puis ouvre une nouvelle session Claude Code.
 
@@ -21,7 +21,7 @@ Rafraîchis le catalogue, puis mets à jour le plugin, et ouvre une nouvelle ses
 claude plugin marketplace update katiro-studio
 ```
 ```bash
-claude plugin update katiro-ui-kit@katiro-studio
+claude plugin update figma-ui-kit@katiro-studio
 ```
 
 ## Licence

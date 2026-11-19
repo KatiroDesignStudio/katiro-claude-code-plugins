@@ -6,13 +6,13 @@
   },
   "plugins": [
     {
-      "name": "katiro-ui-kit",
+      "name": "figma-ui-kit",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/KatiroDesignStudio/katiro-ui-kit-figma.git",
-        "path": "plugins/katiro-ui-kit"
+        "url": "https://github.com/KatiroDesignStudio/figma-ui-kit.git",
+        "path": "plugins/figma-ui-kit"
       },
-      "description": "Remet au propre le UI Kit d'un fichier Figma en logique atomique : diagnostic, construction validée étape par étape, application du kit à des copies d'écrans et recommandations d'accessibilité. Commandes /katiro-ui-kit-diagnostic, /katiro-ui-kit-build, /katiro-ui-kit-templates et /katiro-ui-kit-accessibilite."
+      "description": "Remet au propre le UI Kit d'un fichier Figma en logique atomique : diagnostic, construction validée étape par étape, application du kit à des copies d'écrans et recommandations d'accessibilité. Commandes /figma-ui-kit:diagnostic, /figma-ui-kit:build, /figma-ui-kit:templates et /figma-ui-kit:accessibilite."
     }
   ]
 }
