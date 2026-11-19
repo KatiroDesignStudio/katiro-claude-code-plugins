@@ -13,6 +13,15 @@
         "path": "plugins/katiro-ui-kit"
       },
       "description": "Remet au propre le UI Kit d'un fichier Figma en logique atomique : diagnostic, construction validée étape par étape, application du kit à des copies d'écrans et recommandations d'accessibilité. Commandes /katiro-ui-kit-diagnostic, /katiro-ui-kit-build, /katiro-ui-kit-templates et /katiro-ui-kit-accessibilite."
+    },
+    {
+      "name": "katiro-ds",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/KatiroDesignStudio/katiro-design-system-ia-ready.git",
+        "path": "plugins/katiro-ds"
+      },
+      "description": "Design system IA Ready, de Figma à Mihon (Storybook Katiro) : manager kantoku, skill ecran pour les PO et PM, 13 agents (cadrage, audit Figma, extraction, consolidation de kits, ébauches Figma, outillage, conception, code multi-cibles, doc, Mihon, écrans, essai IA, audits). Dépôt privé : accès à l'organisation KatiroDesignStudio requis."
     }
   ]
 }
